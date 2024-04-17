@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app {
+  height: 100vh;
+  font-family: "Cute Font";
+  
+}
+
+/* App.css */
+
+.app {
+  /* default background color */
+  background-color: #f5f5fa;
+}
+
+.dark .app {
+  /* dark mode background color */
+  background-color: #121212;
+}
+
